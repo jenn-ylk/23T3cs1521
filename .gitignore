@@ -1,8 +1,2 @@
-# Ignores all files except those with the givent extensions
-*
-!.gitignore
-!*.s
-!*.c
-!*.txt
-!*.png
-!*.jpg
+# Ignores all files except those with the given extensions
+*.exe
