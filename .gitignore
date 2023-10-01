@@ -1,2 +1,3 @@
 # Ignores all files except those with the given extensions
 *.exe
+.vscode
