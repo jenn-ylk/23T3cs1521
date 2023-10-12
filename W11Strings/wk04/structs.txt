@@ -1,0 +1,12 @@
+struct _coord {
+    double x;
+    double y;
+};
+
+.data
+coord:
+    .space  8
+    .space  8   # y
+
+lw  $t0, coord()
+lw  $t2, coord+8()
