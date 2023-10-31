@@ -30,7 +30,6 @@ int main(int argc, char *argv[]) {
     // bitwise comparisons with each permission flag, e.g.:
     // if (s.st_mode & S_IRUSR) {}
 
-    
     // // check each of the permissions 
     // // (every permission bit is next to one another, so could use bitshifts 
     // // - always check this against the documentation)
