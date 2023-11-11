@@ -1,0 +1,6 @@
+Environment variables values that can be used to define parameters the environment a process is in.
+
+Common ones may include: (preceded by a "$" if using the terminal)
+HOME - The path to the home directory
+USER - User name (zID if connected to CSE)
+PATH - List of directories to search for executables (e.g. cd, ls...)
